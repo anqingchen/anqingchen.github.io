@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I can program in C, C++, Java, JavaScript and Python 💻. I like making full-stack web applications and Minecraft mods! My favorite libraries and tools are: React, Express, Electron, Flask, Docker and MongoDB',
   paragraphThree: 'Check out my resume for my experiences -->',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '/resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
